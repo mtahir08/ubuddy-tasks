@@ -1,0 +1,16 @@
+User Emma Edinburgh Applicant
+User Sam Edinburgh Applicant
+User Joe Edinburgh Mentor
+User Tom Glasgow Applicant
+User Dave Glasgow Mentor
+ChatGroup Sport Emma Sam Joe
+ChatGroup Maths Emma Joe
+ChatGroup Accommodation Emma Dave
+Message Sam Sport Hello 10:00
+Message Emma Maths Blue 11:00
+Message Joe Maths Welcome 12:00
+Message Emma Maths Green 13:00
+Read Sport Sam 14:00
+Message Joe Maths Yo 15:00
+Read Maths Joe 16:00
+Read Sport Emma 17:00
